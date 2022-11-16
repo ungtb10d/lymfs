@@ -1,3 +1,9 @@
-/sources
+
+/BUILD
+/BUILDROOT
+/LOGS
+/RPMS
+/SOURCES
+/SRPMS
 /lymfs.sublime-project
 /lymfs.sublime-workspace

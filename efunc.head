@@ -1,6 +1,0 @@
-#!/tools/bin/bash
-set -o errexit
-set -o nounset
-set +h
-source ../config.inc.sh
-source ../function.inc.sh

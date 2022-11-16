@@ -5,8 +5,8 @@
 set -o errexit
 set -o nounset
 set +h
-source ./config.inc.sh
-source ./function.inc.sh
+source ./config.inc
+source ./function.inc
 
 change_ownership() {
     local   _complete="${PWD}/LOGS/${FUNCNAME}.completed"
